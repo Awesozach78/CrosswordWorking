@@ -1,9 +1,9 @@
 /**
- * Created by zacha on 1/28/2017.
+ * Created by Zachary on 1/28/2017.
  */
 public class Square {
 
-    public Square(boolean isBalck, int num) {
+    public Square(boolean isBlack, int num) {
     }
 
     public static void main(String args[][]) {
